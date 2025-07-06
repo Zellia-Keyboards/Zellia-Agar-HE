@@ -23491,7 +23491,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Hall_Sensor_Keyboard:SLSS49E_MX_2.25U-ReversedStabilizers"
+		(property "Footprint" "Hall_Sensor_Keyboard:SLSS49E_MX_2.25U"
 			(at 323.85 119.38 0)
 			(effects
 				(font
